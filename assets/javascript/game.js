@@ -22,10 +22,6 @@ crystal1 = Math.floor(Math.random() * 101) + 20;
 function checkWin() {
     //in this function you want an if statement to determine if the userscore and the targetscore either match or the userscore is over targetscore
 }
-// var crystalOne = document.getElementById (".crystalone");
-// var crystalTwo = document.getElementById ("crystaltwo");
-// var crystalThree = document.getElementById ("crystalthree");
-// var crystalFour = document.getElementById ("crystalfour");
 
 
 $('#crystalone').on("click", function () {
@@ -35,16 +31,7 @@ $('#crystalone').on("click", function () {
     checkWin();
 })
 
-// }
-// // $("#crystalone").on("click", function (){
-// // Math.floor(Math.random()*5)
-// // })
-// }
 
-// $(".crystalone").on("click", "img", function (event) {
-//     var currentImage = event.currentTarget;{
-//         console.log ("the button is clicked");
-//     }
 gameStart();
 });
 
