@@ -1,0 +1,72 @@
+body {
+  background-image: url("../images/full-bloom.png");
+}
+
+#first {
+  background-color: purple;
+  color: white;
+  width: 350px;
+  height: 100px;
+}
+h1 {
+  margin-left: 10px;
+  padding: 20px;
+  margin: 0 auto;
+  padding-left: 50px;
+}
+
+#instructions {
+  background-color: green;
+  height: 400px;
+  width: 700px;
+  color: yellow;
+  font-size: 24px;
+}
+
+p {
+  margin-left: 10px;
+}
+
+#number {
+  background-color: orange;
+  width: 250px;
+  height: 100px;
+  margin-top: 20px;
+  color: white;
+  font-size: 24px;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 50px;
+}
+
+#winsLosses {
+  background-color: pink;
+  color: white;
+  width: 100px;
+  height: 130px;
+  margin-left: 400px;
+  margin-top: -140px;
+  padding: 5px;
+}
+
+.crystals {
+    padding: 10px; 
+}
+
+#your {
+    background-color: fuchsia;
+    width: 300px;
+    height: 20px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+#score {
+    background-color: fuchsia;
+    width: 300px;
+    height: 100px;
+    margin-top: 25px;
+    margin-left: 10px;
+    padding: 10px;
+    
+}
